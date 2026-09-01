@@ -57,6 +57,7 @@ Libraries for working with WebSocket.
 
 * [Crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn).
 * [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
+* [test](https://github.com/lorien/awesome-ai-benchmarks) - test
 
 ### Network : DNS
 * [dnspython](https://github.com/rthalley/dnspython) - a powerful DNS toolkit for python
