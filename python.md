@@ -75,6 +75,7 @@ Libraries for working with WebSocket.
 * [dude](https://github.com/roniemartinez/dude) - A simple framework for writing web scrapers using decorators.
 * [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Web scraping framework that uses AI for extracting data
 * [Crawl4AI](https://github.com/unclecode/crawl4ai) - web crawler and scraper
+* [opticparse](https://github.com/parastejpal987-cmyk/opticparse-public) - multimodal vision web scraper that extracts structured data without CSS selectors.
 
 ### Web Scraping : Tools
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
